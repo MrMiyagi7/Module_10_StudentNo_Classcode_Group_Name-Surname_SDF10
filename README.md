@@ -4,20 +4,20 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 1. **Understanding and Application**: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
 
-[Your answer goes here]
+[An API is a set or rules or protocols that facilitates the communication between two seperate mediums such as software programs to certain features or data to preform actions. The API also defines how the two programs should communicate by defining the format, methods and data the components should be making use of. APIs allow for vast possibilities in the world of development by not only removing the limitation of communication between different software programs but also by giving developers a way to create programs that can sacle in the long term and to ensure the consistency. APIs also allow for complex features of fuctions to be much simpler and keep the user interface simpler and intuitive. In a personal project I have been working on I implemeted a obeserver API which allowed me to animate elements on the webpage when the user scrolled down and the elements came into view by communicating with the different software components in my web program.]
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
-[Your answer goes here]
+[Both an API and an interface both serve the purpose of defininig how software components communicate with each other. However an API has a more specific role in setting protocols which facilate the communication with external components in order to intergrate or access other systems. Where as a interface is a more general term to describe the contract in how two software programs or components of the programs interact , there are many different types of interfaces as API's actually falling under the catergory of interfaces.]
 
 3. **Components and Types of APIs**: Can you identify the main components of an API and describe their roles? Reflect on the different types of APIs mentioned (e.g., Web APIs, RESTful APIs) and discuss which type you find most intriguing or useful, and why.
 
-[Your answer goes here]
+[There are 3 main components to an API. The first being an Endpoint. An Endpoint is a URI or URL which locates the specific resources or location that the resorces that is stored on the server in which the request is being made to. The second componemnt is the method. A method refers the actually task or request that is being made to the server such as getting, creating, updating or deleting resources on the server usually a method is displayed in front of the Endpoint. The final component is the data structure that the API defines in order for the clients which is making the request and the server which is recieving the request can use to communicate. JSON and XML are the most widely used data formats for such communication. I find API's that use the RESTful architure the most intriguing because of its stateless property which allows for simplicty when working with these APIs in development.]
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
-[Your answer goes here]
+[Recently in a personal project I found the need of an API to achieve a certain fuction and as of such I used an API libary instead of coding a API from scratch in order to save time and ensure workabilty and consistency. I've also been playing around with the Spotify API libary and using curl to fetch the URIs that are provided within the Spotify libary. ]
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
-[Your answer goes here]
+[I feel quite confindent in the understanding of the theoretical conecept of APIS, when is the best time to make use of an API and the cast posibilities that APIs offer developers. I do feel that there is a need for more practiacl practice actually coding APIs, getting used to the format that APIs are written in and understanding the JSON or XML responses in order to make better use of the data that can be provided by requests and deliveries that APIs facilitate. ]
